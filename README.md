@@ -1,6 +1,6 @@
 # knightd3-intermediate
 
-These code examples to accompany the online course “Intermediate D3” taught by [Scott Murray](http://alignedleft.com/) and offered by the [Knight Center for Journalism in the Americas](http://journalismcourses.org) at UT Austin, from October 26 to November 22, 2015.
+These code examples to accompany the online course “Intermediate D3 for Data Visualization” taught by [Scott Murray](http://alignedleft.com/) and offered by the [Knight Center for Journalism in the Americas](http://journalismcourses.org) at UT Austin, from October 26 to November 22, 2015.
 
 Examples are grouped by module, with each folder corresponding to a different module of the course.
 
